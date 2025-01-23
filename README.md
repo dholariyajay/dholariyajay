@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Dholariya</h1>
 <h3 align="center">A passionate Software engineer from Canada</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dholariyajay" alt="dholariyajay" /></a> </p>
-
 - 🔭 I’m currently working on **Cloud Projects**
 
 - 🌱 I’m currently learning **DevOps**
