@@ -20,7 +20,7 @@
   About Me
 </h2>
 
-<img align="right" width="40%" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
+<img align="right" width="30%" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" />
 
 - 🔭 Currently focused on **Cloud Projects**
 - 🌱 Learning the depths of **DevOps**
