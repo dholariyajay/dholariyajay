@@ -89,19 +89,32 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
 </div>
 
-<!-- Connect Section with Animated Icons -->
-<h2>
-  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="65">
-  Connect With Me
-</h2>
+# 🤝 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/jaydholariya"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/ijaydholariya"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.youtube.com/c/jaydholariya"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.leetcode.com/jaydholariya"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://discord.gg/jaydholariya"><img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/jaydholariya" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&borderRadius=25"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/ijaydholariya" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&borderRadius=25"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/c/jaydholariya" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=FF0000&borderRadius=25"/>
+  </a>
+  &nbsp;
+  <a href="https://www.leetcode.com/jaydholariya" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116&borderRadius=25"/>
+  </a>
+  &nbsp;
+  <a href="https://discord.gg/jaydholariya" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2&borderRadius=25"/>
+  </a>
+</div>
+
+<!-- Animated Separator -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
 <!-- Profile Views Counter -->
 <div align="center">
