@@ -74,15 +74,7 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 </details>
 
-<!-- Animated Stats -->
-<h2>
-  <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">
-  GitHub Stats
-</h2>
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dholariyajay&show_icons=true&theme=radical" />
-</p>
 
 <!-- Dynamic Quote -->
 <div align="center">
