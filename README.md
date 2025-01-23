@@ -8,11 +8,6 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Jay;Software+Engineer;Cloud+Enthusiast;DevOps+Learner" alt="Typing SVG" /></a>
 </div>
 
-<!-- Dynamic Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
-</div>
-
 <!-- Profile Banner with Animation -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="banner"/>
@@ -113,6 +108,11 @@
 <!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dholariyajay&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
+</div>
+
+<!-- Dynamic Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
 </div>
 
 <!-- Animated Footer -->
