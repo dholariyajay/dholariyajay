@@ -18,7 +18,7 @@
 - 🌱 Learning the depths of **DevOps**
 - 👯 Open to collaborate on **MERN Stack Projects**
 - 🎨 Creator of the **best Figma designs & frontend components**
-- 👨‍💻 Portfolio: [View My Work](https://developer-folio-hrf1areul-saadpastas-projects.vercel.app/)
+- 👨‍💻 Portfolio: [View My Portfolio](https://developer-folio-hrf1areul-saadpastas-projects.vercel.app/)
 - 📫 Reach me at: **jaydholariya07@gmail.com**
 
 <!-- Tech Stack Section -->
