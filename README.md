@@ -82,7 +82,6 @@
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=dholariyajay&show_icons=true&theme=radical" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dholariyajay&theme=radical" />
 </p>
 
 <!-- Dynamic Quote -->
