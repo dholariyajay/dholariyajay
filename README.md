@@ -12,7 +12,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="banner"/>
   <br><br>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs" width="60%"/><br> 
 </div>
 
 <!-- About Me Section with Animation -->
@@ -86,9 +85,9 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dholariyajay&theme=radical" />
 </p>
 
-<!-- Animated Snake -->
+<!-- Dynamic Quote -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/main/resources/img/grid-snake.svg" alt="snake" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
 </div>
 
 <!-- Connect Section with Animated Icons -->
@@ -108,11 +107,6 @@
 <!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dholariyajay&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-</div>
-
-<!-- Dynamic Quote -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%"/>
 </div>
 
 <!-- Animated Footer -->
